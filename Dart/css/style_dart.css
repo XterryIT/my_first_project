@@ -54,6 +54,7 @@ header div.text_sign_up a{
 header div.flex_header{
     display: flex;
     margin: 120px 80px 0 80px;
+ 
     
 }
 
@@ -62,6 +63,7 @@ header div.flex_header div.text_header div.text_title_header{
     font-size: 55px;
     font-weight: 800;
     color: #fff;
+    margin: 0 377px 0 0;
 }
 
 header div.flex_header div.text_header div.maintext_header{
@@ -79,7 +81,7 @@ header div.flex_header div.text_header div.buttom_header{
 header div.flex_header div.text_header div.buttom_header a{
     text-decoration: none;
     margin: 40px 30px 0 0;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 15px;
     color: #061e37;
     border: none;
@@ -95,3 +97,4 @@ header div.flex_header div.text_header div.buttom_header a:hover{
     color: #fff;
     transition-duration: 0.6s;
 }
+
