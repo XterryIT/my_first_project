@@ -12,4 +12,16 @@ header{
 
 header div.menu{
     height: 100px;
+    padding: 50px;
+}
+
+header nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+header nav ul li{
+    text-decoration: none;
+    text-align: center;
+    
 }
