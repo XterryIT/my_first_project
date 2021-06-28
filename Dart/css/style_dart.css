@@ -15,7 +15,7 @@ header{
 header div.menu{
     height: 100px;
     padding: 50px;
-    margin: 0 80px;
+    margin: 0 30px;
 }
 
 header nav ul{
@@ -51,3 +51,13 @@ header div.text_sign_up a{
     font-weight: 400;
 }
 
+header div.flex_header{
+    display: flex;
+    margin: 170px 80px 0 80px;
+    
+}
+
+header div.flex_header div.text_header div.text_title_header{
+    text-transform: uppercase;
+
+}
