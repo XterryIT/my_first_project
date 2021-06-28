@@ -1,5 +1,6 @@
 body{
     margin: 0 -15px;
+    font-family: 'Raleway', sans-serif;
 }
 
 header{
@@ -18,11 +19,14 @@ header div.menu{
 header nav ul{
     list-style-type: none;
     display: flex;
+    
 }
 
-header nav ul li{
+header nav ul li a{
     text-decoration: none;
     text-align: center;
     margin: 0 50px 0 0;
-    
+    font-size: 15px;
+    color: #fff;
+    font-weight: 600;
 }
