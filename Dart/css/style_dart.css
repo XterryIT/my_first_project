@@ -1,5 +1,8 @@
 header{
     height: 750px;
+    background-image: url(../img/bg_header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 header div.menu{
