@@ -98,3 +98,9 @@ header div.flex_header div.text_header div.buttom_header a:hover{
     transition-duration: 0.6s;
 }
 
+div.easy div.easy_text{
+    font-size: 45px;
+    color: black;
+    font-weight: 600;
+}
+ 
