@@ -99,7 +99,7 @@ header div.flex_header div.text_header div.buttom_header a:hover{
 }
 
 div.easy div.easy_text div.easy_text1{
-    
+    align-items: center;
     margin: 100px 0 0 0;
 }
 
@@ -124,4 +124,15 @@ div.easy div.easy_text div.easy_text3{
     font-size: 15px;
     font-weight: 400;
     color: #b0bec5;
+}
+
+div.easy div.easy_pictures{
+    display: flex;
+}
+
+div.easy div.easy_pictures div.pictures_text{
+    font-size: 20px;
+    font-weight: 600;
+    color: #061e37;
+
 }
