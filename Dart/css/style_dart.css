@@ -98,9 +98,30 @@ header div.flex_header div.text_header div.buttom_header a:hover{
     transition-duration: 0.6s;
 }
 
-div.easy div.easy_text{
-    font-size: 45px;
-    color: black;
-    font-weight: 600;
+div.easy div.easy_text div.easy_text1{
+    
+    margin: 100px 0 0 0;
 }
- 
+
+
+div.easy div.easy_text div.easy_text1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+    color: #061e37;
+}
+
+div.easy div.easy_text div.easy_text2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: #b0bec5;
+    margin: 20px;
+}
+
+div.easy div.easy_text div.easy_text3{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    color: #b0bec5;
+}
