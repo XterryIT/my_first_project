@@ -160,13 +160,26 @@ section.easy a{
 *******************************************/
 
 section.award{
-    margin: 0 -50px 0 0 ;
+    margin: 0 0 0 0 ;
 }
 
-section.award div.bg{
+section.award div.bg1{
+    background-color: #80d8ff;
+}
 
+section.award div.bg2{
+    background-color: #82b1ff;
+}
+
+section.award div.bg3{
+    background-color: #b388ff;
+}
+
+section.award div.bg4{
+    background-color: #ea80fc;
 }
 
 section.award div.bg div.position_items{
     display: flex;
+
 }
