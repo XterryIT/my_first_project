@@ -103,7 +103,24 @@ header div.flex_header div.text_header div.buttom_header a:hover{
 *******************************************/
 
 section.easy {
-    text-align: center;  
+    text-align: center; 
+    margin: 100px -100px;
+
 }
 
-section.easy
+section.easy div.use_title{
+    font-weight: 600;
+    font-size: 45px;
+}
+
+section.easy h2{
+    font-weight: 600;
+    font-size: 25px;
+    color: #b0bec5;
+}
+
+section.easy p{
+    font-weight: 400;
+    font-size: 15px;
+    color: #b0bec5;
+}
