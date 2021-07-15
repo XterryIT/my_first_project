@@ -129,3 +129,27 @@ section.easy p{
     font-size: 15px;
     color: #b0bec5;
 }
+
+section.easy div.pictures{
+    margin: 100px 0 80px 0;
+    
+}
+
+section.easy div.pictures div.all_col{
+    margin: 0 150px 0 0;
+}
+
+section.easy div.pictures img{
+    margin: 0 0 20px 0;
+}
+
+section.easy a{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    padding: 20px 35px 20px 35px;
+    background-color: #1de9b6;
+    border: none;
+    text-decoration: none;
+}
