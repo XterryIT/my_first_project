@@ -108,6 +108,11 @@ section.easy {
 
 }
 
+section.easy div.easy_width{
+    max-width: 40%;
+    margin: 0 0 0 30%;
+}
+
 section.easy div.use_title{
     font-weight: 600;
     font-size: 45px;
